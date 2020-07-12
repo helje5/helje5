@@ -25,7 +25,7 @@ Early work I'm responsible for includes:
 [ScalableOGo](http://www.scalableogo.org),
 [OpenGroupware.org](http://www.opengroupware.org),
 [SOPE](http://sope.opengroupware.org) and
-[GKTKit](http://ftp.gnome.org/pub/gimp/gtk/objc-gtkkit/).
+[GTKKit](http://ftp.gnome.org/pub/gimp/gtk/objc-gtkkit/).
 
 Since it was released I've primarily worked on 
 [Swift](https://swift.org) 
