@@ -42,11 +42,15 @@ I tend to create organizations for larger projects:
 [SwiftyLinkerKit](https://github.com/SwiftyLinkerKit), …
 
 My own favorites:
-[**Macro**.swift](https://github.com/Macro-swift/MacroApp/blob/develop/README.md),
-[SwiftNIO **IRC Server**](https://github.com/NozeIO/swift-nio-irc-server),
-[**Direct to Swift**](https://github.com/DirectToSwift/DirectToSwiftUI) (rule driven SwiftUI DB apps)
+[**Macro**.swift](https://github.com/Macro-swift/MacroApp/blob/develop/README.md) 
+(Node.s style Server Side Swift),
+[SwiftNIO **IRC Server**](https://github.com/NozeIO/swift-nio-irc-server) 
+(IRC server, including Web frontend & Eliza),
+[**Direct to Swift**](https://github.com/DirectToSwift/DirectToSwiftUI) 
+(rule driven SwiftUI DB apps)
 and
-[**UXKit**](https://github.com/ZeeZide/UXKit).
+[**UXKit**](https://github.com/ZeeZide/UXKit) 
+(build stuff for UIKit and AppKit from a single source).
 
 
 <a href="https://github.com/Macro-swift"         ><img src="https://avatars1.githubusercontent.com/u/59569168?s=60&v=4" alt="Macro"             /></a>
