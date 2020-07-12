@@ -23,7 +23,7 @@ Alongside I blog (mostly about Swift) at the
 Tweeting at [@helje5](https://twitter.com/helje5), 
 [homepage](https://www.helgehess.eu/index.html).
 
-Doing FOSS since like forever.
+Making FOSS since like forever.
 Early work I'm responsible for:
 [ScalableOGo](http://www.scalableogo.org),
 [OpenGroupware.org](http://www.opengroupware.org),
