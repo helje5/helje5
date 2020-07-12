@@ -31,7 +31,8 @@ Early work I'm responsible for:
 [GTKKit](http://ftp.gnome.org/pub/gimp/gtk/objc-gtkkit/)
 (also worked on
 [libFoundation](https://github.com/AlwaysRightInstitute/libFoundation),
-GCC libobjc and [GNUstep](http://www.gnustep.org)).
+GCC libobjc and [GNUstep](http://www.gnustep.org),
+and Internet standards like [CalDAV](http://caldav.de) and [CardDAV](http://carddav.de)).
 
 Since it was released I've primarily worked on 
 [Swift](https://swift.org) 
@@ -49,14 +50,14 @@ I tend to create organizations for larger projects:
 
 My own favorites:
 [**Macro**.swift](https://github.com/Macro-swift/MacroApp/blob/develop/README.md) 
-(Node.s style Server Side Swift),
+(Node.js style Server Side Swift),
 [SwiftNIO **IRC Server**](https://github.com/NozeIO/swift-nio-irc-server) 
-(IRC server, including Web frontend & Eliza),
+(chat server, including Web frontend & Eliza),
 [**Direct to Swift**](https://github.com/DirectToSwift/DirectToSwiftUI) 
-(rule driven SwiftUI DB apps)
+(rule driven SwiftUI database apps)
 and
 [**UXKit**](https://github.com/ZeeZide/UXKit) 
-(build stuff for UIKit and AppKit from a single source).
+(UIKit and AppKit apps from a single source).
 
 
 <a href="https://github.com/Macro-swift"         ><img src="https://avatars1.githubusercontent.com/u/59569168?s=60&v=4" alt="Macro"             /></a>
