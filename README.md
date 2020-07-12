@@ -20,12 +20,15 @@ Alongside I blog (mostly about Swift) at the
 Tweeting at [@helje5](https://twitter.com/helje5), 
 [homepage](https://www.helgehess.eu/index.html).
 
-Doing OpenSource since like forever.
-Early work I'm responsible for includes:
+Doing FOSS since like forever.
+Early work I'm responsible for:
 [ScalableOGo](http://www.scalableogo.org),
 [OpenGroupware.org](http://www.opengroupware.org),
 [SOPE](http://sope.opengroupware.org) and
-[GTKKit](http://ftp.gnome.org/pub/gimp/gtk/objc-gtkkit/).
+[GTKKit](http://ftp.gnome.org/pub/gimp/gtk/objc-gtkkit/)
+(also worked on
+[libFoundation](https://github.com/AlwaysRightInstitute/libFoundation),
+GCC libobjc and [GNUstep](http://www.gnustep.org)).
 
 Since it was released I've primarily worked on 
 [Swift](https://swift.org) 
