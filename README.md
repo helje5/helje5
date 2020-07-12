@@ -27,8 +27,9 @@ Early work I'm responsible for includes:
 [SOPE](http://sope.opengroupware.org) and
 [GKTKit](http://ftp.gnome.org/pub/gimp/gtk/objc-gtkkit/).
 
-Since it was released I've primarily worked on Swift projects, most of which
-you find over here at GitHub.
+Since it was released I've primarily worked on 
+[Swift](https://swift.org) 
+projects, most of which you find over here at GitHub.
 I tend to create organizations for larger projects:
 [Macro.swift](https://github.com/Macro-swift),
 [SwiftWebUI](https://github.com/SwiftWebUI),
@@ -41,7 +42,6 @@ I tend to create organizations for larger projects:
 [SwiftyLinkerKit](https://github.com/SwiftyLinkerKit), …
 
 My own favorites:
-
 [Macro.swift](https://github.com/Macro-swift/MacroApp/blob/develop/README.md),
 [SwiftNIO IRC Server](https://github.com/NozeIO/swift-nio-irc-server),
 [Direct to Swift](https://github.com/DirectToSwift/DirectToSwiftUI) (rule driven SwiftUI DB apps)
