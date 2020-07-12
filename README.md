@@ -9,7 +9,7 @@ been at
 [Apple](https://support.apple.com/en-us/HT204283), ZideOne, 
 Brainstorm and Skyrix before.
 Got an interesting project that fits my profile? [Drop me a line](https://zeezide.com/contact.html)!
-ZeeZide's primary product is [**Shrugs.app**](https://shrugs.app) 🤷‍♀️ a native masOS client for Slack.
+ZeeZide's primary product is [**Shrugs.app**](https://shrugs.app) 🤷‍♀️ a native macOS client for Slack.
 
 Alongside I blog (mostly about Swift) at the 
 [**Always Right Institute**](http://www.alwaysrightinstitute.com):
