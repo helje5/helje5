@@ -1,12 +1,15 @@
 ### ★ Welcome to Helge's GitHub Home! ★
 
-I'm a professional software developer for ~25 years. 
+I'm a professional software developer for ~25 years.
+Did code on all kinds of platforms (NeXTstep, Linux, Windows, macOS, iOS)
+in all kinds of languages (Objective-C, TCL, Guile, Python, Java, JavaScript, C++, Swift).
+
 Currently running my own company called [**ZeeZide**](https://zeezide.de/), 
 been at 
 [Apple](https://support.apple.com/en-us/HT204283), ZideOne, 
 Brainstorm and Skyrix before.
 Got an interesting project that fits my profile? [Drop me a line](https://zeezide.com/contact.html)!
-The primary product is [**Shrugs.app**](https://shrugs.app) 🤷‍♀️ a native masOS client for Slack.
+ZeeZide's primary product is [**Shrugs.app**](https://shrugs.app) 🤷‍♀️ a native masOS client for Slack.
 
 Alongside I blog (mostly about Swift) at the 
 [**Always Right Institute**](http://www.alwaysrightinstitute.com):
