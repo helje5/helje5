@@ -1,15 +1,15 @@
 ### ★ Welcome to Helge's GitHub Home! ★
 
 I'm a professional software developer for ~25 years. 
-Currently running my own company called [ZeeZide](https://zeezide.de/), 
+Currently running my own company called [**ZeeZide**](https://zeezide.de/), 
 been at 
 [Apple](https://support.apple.com/en-us/HT204283), ZideOne, 
 Brainstorm and Skyrix before.
 Got an interesting project that fits my profile? [Drop me a line](https://zeezide.com/contact.html)!
-The primary product is [Shrugs.app](https://shrugs.app) 🤷‍♀️ a native masOS client for Slack.
+The primary product is [**Shrugs.app**](https://shrugs.app) 🤷‍♀️ a native masOS client for Slack.
 
 Alongside I blog (mostly about Swift) at the 
-[Always Right Institute](http://www.alwaysrightinstitute.com):
+[**Always Right Institute**](http://www.alwaysrightinstitute.com):
 [SwiftWebUI](http://www.alwaysrightinstitute.com/swiftwebui/),
 [µTutorial on SwiftNIO](http://www.alwaysrightinstitute.com/microexpress-nio2/),
 [@dynamicCallable part1](http://www.alwaysrightinstitute.com/swift-dynamic-callable/),
@@ -42,11 +42,11 @@ I tend to create organizations for larger projects:
 [SwiftyLinkerKit](https://github.com/SwiftyLinkerKit), …
 
 My own favorites:
-[Macro.swift](https://github.com/Macro-swift/MacroApp/blob/develop/README.md),
-[SwiftNIO IRC Server](https://github.com/NozeIO/swift-nio-irc-server),
-[Direct to Swift](https://github.com/DirectToSwift/DirectToSwiftUI) (rule driven SwiftUI DB apps)
+[**Macro**.swift](https://github.com/Macro-swift/MacroApp/blob/develop/README.md),
+[SwiftNIO **IRC Server**](https://github.com/NozeIO/swift-nio-irc-server),
+[**Direct to Swift**](https://github.com/DirectToSwift/DirectToSwiftUI) (rule driven SwiftUI DB apps)
 and
-[UXKit](https://github.com/ZeeZide/UXKit).
+[**UXKit**](https://github.com/ZeeZide/UXKit).
 
 
 <a href="https://github.com/Macro-swift"         ><img src="https://avatars1.githubusercontent.com/u/59569168?s=60&v=4" alt="Macro"             /></a>
