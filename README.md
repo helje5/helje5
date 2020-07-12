@@ -35,7 +35,7 @@ GCC libobjc and [GNUstep](http://www.gnustep.org)).
 
 Since it was released I've primarily worked on 
 [Swift](https://swift.org) 
-projects, most of which you find over here at GitHub.
+projects, most of which you can find over here at GitHub.
 I tend to create organizations for larger projects:
 [Macro.swift](https://github.com/Macro-swift),
 [SwiftWebUI](https://github.com/SwiftWebUI),
