@@ -52,7 +52,7 @@ My own favorites:
 [**Macro**.swift](https://github.com/Macro-swift/MacroApp/blob/develop/README.md) 
 (Node.js style Server Side Swift),
 [SwiftNIO **IRC Server**](https://github.com/NozeIO/swift-nio-irc-server) 
-(chat server, including Web frontend & Eliza),
+(chat server, w/ Web frontend, SwiftUI client and Eliza),
 [**Direct to Swift**](https://github.com/DirectToSwift/DirectToSwiftUI) 
 (rule driven SwiftUI database apps)
 and
