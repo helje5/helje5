@@ -38,10 +38,11 @@ Since it was released I've primarily worked on
 [Swift](https://swift.org) 
 projects, most of which you can find over here at GitHub.
 I tend to create organizations for larger projects:
-[SwiftBlocksUI.swift](https://github.com/SwiftBlocksUI),
+[SwiftBlocksUI](https://github.com/SwiftBlocksUI),
 [Macro.swift](https://github.com/Macro-swift),
 [SwiftWebUI](https://github.com/SwiftWebUI),
 [Direct to Swift](https://github.com/DirectToSwift),
+[SPMDestinations](https://github.com/SPMDestinations),
 [mod_swift](https://github.com/modswift),
 [ZeeQL](https://github.com/ZeeQL),
 [PL/Swift](https://github.com/PL-Swift),
@@ -65,6 +66,8 @@ and
 <a href="https://github.com/Macro-swift"         ><img src="https://avatars1.githubusercontent.com/u/59569168?s=60&v=4" alt="Macro"             /></a>
 <a href="https://github.com/SwiftWebUI"          ><img src="https://avatars1.githubusercontent.com/u/52378706?s=60&v=4" alt="SwiftWebUI"        /></a>
 <a href="https://github.com/DirectToSwift"       ><img src="https://avatars3.githubusercontent.com/u/55363107?s=60&v=4" alt="Direct2Swift"      /></a>
+<a href="https://github.com/SPMDestinations"     ><img src="https://avatars3.githubusercontent.com/u/69114296?s=60&v=4" alt="SPMDestinations"   /></a>
+<a href="https://github.com/SwiftXcode/swift-lambda"><img src="https://camo.githubusercontent.com/0095dd8a08178d36571f26766b156eb152531d1d/687474703a2f2f7a65657a6964652e636f6d2f696d672f6c616d6264612f73776966742d6c616d6264612d323536783235362e706e67" alt="swift lambda" width="60" height="60" /></a>
 <a href="https://github.com/modswift"            ><img src="https://avatars1.githubusercontent.com/u/26199566?s=60&v=4" alt="mod_swift"         /></a>
 <a href="https://github.com/ZeeQL"               ><img src="https://avatars1.githubusercontent.com/u/26922908?s=60&v=4" alt="ZeeQL"             /></a>
 <a href="https://github.com/PL-Swift"            ><img src="https://avatars0.githubusercontent.com/u/35143538?s=60&v=4" alt="PL/Swift"          /></a>
