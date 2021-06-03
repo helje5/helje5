@@ -10,6 +10,12 @@ been at
 Brainstorm and Skyrix before.
 Got an interesting project that fits my profile? [Drop me a line](https://zeezide.com/contact.html)!
 ZeeZide's primary product is [**Shrugs.app**](https://shrugs.app) 🤷‍♀️ a native macOS client for Slack.
+Other apps: [Past for iChat](https://zeezide.de/en/products/past/index.html),
+[SVG Shaper for SwiftUI](https://zeezide.de/en/products/svgshaper/index.html),
+[SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/),
+[CodeCows](https://zeezide.de/en/products/codecows/index.html) and
+[5 GUIs](https://zeezide.de/en/products/5guis/index.html).
+Want to support my work? Buy an app! You don't have to use it! 😀
 
 Alongside I blog (mostly about Swift) at the 
 [**Always Right Institute**](http://www.alwaysrightinstitute.com):
