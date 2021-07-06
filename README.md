@@ -86,3 +86,4 @@ and
 <a href="https://github.com/SwiftWebResources"   ><img src="https://avatars2.githubusercontent.com/u/39731555?s=60&v=4" alt="SwiftWebResources" /></a>
 <a href="https://github.com/SwiftNIOExtras"      ><img src="https://avatars1.githubusercontent.com/u/41732830?s=60&v=4" alt="NIO X"             /></a>
 <a href="https://github.com/GETobjects"          ><img src="https://avatars1.githubusercontent.com/u/50487274?s=60&v=4" alt="GETobjects"        /></a>
+<a href="https://github.com/DoccZz"              ><img src="https://avatars1.githubusercontent.com/u/86746085?s=60&v=4" alt="DocZ"              /></a>
