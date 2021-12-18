@@ -1,6 +1,8 @@
 ### ★ Welcome to Helge's GitHub Home! ★
 
-I'm a professional software developer for ~25 years.
+I know exactly what I want, but I can't have it.
+
+A professional software developer for ~30 years.
 Did code on all kinds of platforms (NeXTstep, Linux, Windows, macOS, iOS)
 in all kinds of languages (Objective-C, TCL, Guile, Python, Java, JavaScript, C++, Swift).
 
