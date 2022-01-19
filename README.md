@@ -6,18 +6,18 @@ A professional software developer for ~30 years.
 Did code on all kinds of platforms (NeXTstep, Linux, Windows, macOS, iOS)
 in all kinds of languages (Objective-C, TCL, Guile, Python, Java, JavaScript, C++, Swift).
 
-Currently running my own company called [**ZeeZide**](https://zeezide.de/), 
+Running my own company called [**ZeeZide**](https://zeezide.de/) for 7+ years now, 
 been at 
 [Apple](https://support.apple.com/en-us/HT204283), ZideOne, 
 Brainstorm and Skyrix before.
-Got an interesting project that fits my profile? [Drop me a line](https://zeezide.com/contact.html)!
-ZeeZide's primary product is [**Shrugs.app**](https://shrugs.app) 🤷‍♀️ a native macOS client for Slack.
-Other apps: [Past for iChat](https://zeezide.de/en/products/past/index.html),
-[SVG Shaper for SwiftUI](https://zeezide.de/en/products/svgshaper/index.html),
-[SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/),
+Got an interesting project that fits my profile? [Drop me a line](https://zeezide.com/contact.html)!<br>
+ZeeZide apps include [Shrugs.app](https://shrugs.app) 🤷‍♀️, a native macOS client for Slack,
+[Past for iChat](https://zeezide.de/en/products/past/index.html) to open iChat chatlogs on macOS 11+,
+[SVG Shaper for SwiftUI](https://zeezide.de/en/products/svgshaper/index.html) converts SVGs into SwiftUI Shapes & Views,
+[SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/) as a native app for the Swift package index,
 [CodeCows](https://zeezide.de/en/products/codecows/index.html) and
-[5 GUIs](https://zeezide.de/en/products/5guis/index.html).
-Want to support my work? Buy an app! You don't have to use it! 😀
+[5 GUIs](https://zeezide.de/en/products/5guis/index.html).<br>
+**Want to support my work**? [Buy an app](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414)! You don't have to use it! 😀
 
 Alongside I blog (mostly about Swift) at the 
 [**Always Right Institute**](http://www.alwaysrightinstitute.com):
