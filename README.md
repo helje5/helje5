@@ -17,7 +17,13 @@ ZeeZide apps include [Shrugs.app](https://shrugs.app) 🤷‍♀️, a native ma
 [SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/) as a native app for the Swift package index,
 [CodeCows](https://zeezide.de/en/products/codecows/index.html) and
 [5 GUIs](https://zeezide.de/en/products/5guis/index.html).<br>
-**Want to support my work**? [Buy an app](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414)! You don't have to use it! 😀
+**Want to support my work**? 
+Buy an app:
+[Past for iChat](https://apps.apple.com/us/app/past-for-ichat/id1554897185),
+[SVG Shaper](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414),
+[Shrugs](https://shrugs.app/),
+[HMScriptEditor](https://apps.apple.com/us/app/hmscripteditor/id1483239744).
+You don't have to use it! 😀
 
 Alongside I blog (mostly about Swift) at the 
 [**Always Right Institute**](http://www.alwaysrightinstitute.com):
