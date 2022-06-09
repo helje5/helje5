@@ -78,7 +78,6 @@ and
 <a href="https://github.com/PL-Swift"            ><img src="https://avatars0.githubusercontent.com/u/35143538?s=60&v=4" alt="PL/Swift"          /></a>
 <a href="https://github.com/NozeIO"              ><img src="https://avatars1.githubusercontent.com/u/19689921?s=60&v=4" alt="Noze.io"           /></a>
 <a href="https://github.com/SwiftObjects"        ><img src="https://avatars3.githubusercontent.com/u/39711873?s=60&v=4" alt="SwiftObjects"      /></a>
-<a href="https://github.com/AlwaysRightInstitute"><img src="https://avatars3.githubusercontent.com/u/7712913?s=60&v=4"  alt="ARI"               /></a>
 <a href="https://github.com/ZeeZide"             ><img src="https://avatars0.githubusercontent.com/u/10814202?s=60&v=4" alt="ZeeZide"           /></a>
 <a href="https://github.com/ApacheExpress"       ><img src="https://avatars0.githubusercontent.com/u/26922917?s=60&v=4" alt="ApacheExpress"     /></a>
 <a href="https://github.com/SwiftXcode"          ><img src="https://avatars1.githubusercontent.com/u/36967536?s=60&v=4" alt="SwiftXcode"        /></a>
