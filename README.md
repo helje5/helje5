@@ -2,7 +2,7 @@
 
 I know exactly what I want, but I can't have it.
 
-A professional software developer for ~30 years.
+A professional software developer.
 Did code on all kinds of platforms (NeXTstep, Linux, Windows, macOS, iOS)
 in all kinds of languages (Objective-C, TCL, Guile, Python, Java, JavaScript, C++, Swift).
 
@@ -25,8 +25,7 @@ Buy an app:
 [HMScriptEditor](https://apps.apple.com/us/app/hmscripteditor/id1483239744).
 You don't have to use it! 😀
 
-Alongside I blog (mostly about Swift) at the 
-[**Always Right Institute**](http://www.alwaysrightinstitute.com):
+Alongside I sometimes write articles:
 [SwiftWebUI](http://www.alwaysrightinstitute.com/swiftwebui/),
 [µTutorial on SwiftNIO](http://www.alwaysrightinstitute.com/microexpress-nio2/),
 [@dynamicCallable part1](http://www.alwaysrightinstitute.com/swift-dynamic-callable/),
