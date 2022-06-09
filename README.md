@@ -25,7 +25,7 @@ You don't have to use it! 😀
 
 Articles about Swift and other technologies can be found on my
 [homepage](https://www.helgehess.eu/articles.html).
-Tweeting at [@helje5](https://twitter.com/helje5).
+Tweeting as [@helje5](https://twitter.com/helje5).
 
 Making FOSS since like forever.
 Early work I'm responsible for:
