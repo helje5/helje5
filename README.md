@@ -25,16 +25,9 @@ Buy an app:
 [HMScriptEditor](https://apps.apple.com/us/app/hmscripteditor/id1483239744).
 You don't have to use it! 😀
 
-Alongside I sometimes write articles:
-[SwiftWebUI](http://www.alwaysrightinstitute.com/swiftwebui/),
-[µTutorial on SwiftNIO](http://www.alwaysrightinstitute.com/microexpress-nio2/),
-[@dynamicCallable part1](http://www.alwaysrightinstitute.com/swift-dynamic-callable/),
-[part2](http://www.alwaysrightinstitute.com/swift-objc-bridge/),
-[part3](http://www.alwaysrightinstitute.com/mustacheable/),
-[Chat w/ your Raspi](http://www.alwaysrightinstitute.com/linkerkit/),
-[Direct2SwiftUI](http://www.alwaysrightinstitute.com/directtoswiftui/) and more.
-Tweeting at [@helje5](https://twitter.com/helje5), 
-[homepage](https://www.helgehess.eu/index.html).
+Articles about Swift and other technologies can be found on my
+[homepage](https://www.helgehess.eu/articles.html).
+Tweeting at [@helje5](https://twitter.com/helje5).
 
 Making FOSS since like forever.
 Early work I'm responsible for:
@@ -49,7 +42,7 @@ and Internet standards like [CalDAV](http://caldav.de) and [CardDAV](http://card
 
 Since it was released I've primarily worked on 
 [Swift](https://swift.org) 
-projects, most of which you can find over here at GitHub.
+projects, many of which you can find over here at GitHub.
 I tend to create organizations for larger projects:
 [SwiftBlocksUI](https://github.com/SwiftBlocksUI),
 [Macro.swift](https://github.com/Macro-swift),
