@@ -2,9 +2,7 @@
 
 I know exactly what I want, but I can't have it.
 
-A professional software developer.
-Did code on all kinds of platforms (NeXTstep, Linux, Windows, macOS, iOS)
-in all kinds of languages (Objective-C, TCL, Guile, Python, Java, JavaScript, C++, Swift).
+A software developer. Did code on all kinds of platforms in all kinds of languages.
 
 Running my own company called [**ZeeZide**](https://zeezide.de/) for 7+ years now, 
 been at 
