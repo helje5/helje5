@@ -8,7 +8,8 @@ Running my own company called [**ZeeZide**](https://zeezide.de/) for 7+ years no
 been at 
 [Apple](https://support.apple.com/en-us/HT204283), ZideOne, 
 Brainstorm and Skyrix before.
-Got an interesting project that fits my profile? [Drop me a line](https://zeezide.com/contact.html)!<br>
+Got an interesting project that fits my profile? [Drop me a line](https://zeezide.com/contact.html)!
+I'm proactively looking for projects that fit my skills.<br>
 ZeeZide apps include [Shrugs.app](https://shrugs.app) 🤷‍♀️, a native macOS client for Slack,
 [Past for iChat](https://zeezide.de/en/products/past/index.html) to open iChat chatlogs on macOS 11+,
 [SVG Shaper for SwiftUI](https://zeezide.de/en/products/svgshaper/index.html) converts SVGs into SwiftUI Shapes & Views,
@@ -58,8 +59,8 @@ My own favorites:
 [**Macro**.swift](https://github.com/Macro-swift/MacroApp/blob/develop/README.md) 
 (Node.js style Server Side Swift),
 [SwiftNIO **IRC Server**](https://github.com/NozeIO/swift-nio-irc-server) 
-(chat server, w/ Web frontend, SwiftUI client and Eliza),
-[**Direct to Swift**](https://github.com/DirectToSwift/DirectToSwiftUI) 
+(chat server, w/ Web frontend, SwiftUI client and [Eliza](https://en.wikipedia.org/wiki/ELIZA)),
+[**Direct to SwiftUI**](https://github.com/DirectToSwift/DirectToSwiftUI) 
 (rule driven SwiftUI database apps)
 and
 [**UXKit**](https://github.com/ZeeZide/UXKit) 
