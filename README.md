@@ -19,6 +19,7 @@ ZeeZide apps include [Shrugs.app](https://shrugs.app) 🤷‍♀️, a native ma
 **Want to support my work**? 
 Buy an app:
 [Past for iChat](https://apps.apple.com/us/app/past-for-ichat/id1554897185),
+[Code for SQLite3](https://apps.apple.com/us/app/code-for-sqlite3/id1638111010),
 [SVG Shaper](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414),
 [Shrugs](https://shrugs.app/),
 [HMScriptEditor](https://apps.apple.com/us/app/hmscripteditor/id1483239744).
@@ -67,6 +68,7 @@ and
 (UIKit and AppKit apps from a single source).
 
 
+<a href="https://github.com/Lighter-swift"><img width=60 height=60  src="https://camo.githubusercontent.com/62b03fa294eb9a8cf66e3e88a07f0e9e066a0ac73d8b26624c57b85ac63159fb/68747470733a2f2f7a65657a6964652e636f6d2f696d672f6c6967687465722f4c6967687465723235362e706e67" alt="Lighter.swift" /></a>
 <a href="https://github.com/ZeeZide/ViewController"><img width=60 height=60  src="http://www.alwaysrightinstitute.com/images/vc/ViewControllerIcon256.png" alt="ViewController"     /></a>
 <a href="https://github.com/SwiftBlocksUI"       ><img src="https://avatars0.githubusercontent.com/u/68433678?s=60&v=4" alt="SwiftBlocksUI"     /></a>
 <a href="https://github.com/Macro-swift"         ><img src="https://avatars1.githubusercontent.com/u/59569168?s=60&v=4" alt="Macro"             /></a>
