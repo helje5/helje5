@@ -10,7 +10,7 @@ been at
 Brainstorm and Skyrix before.
 Got an interesting project that fits my profile? [Drop me a line](https://zeezide.com/contact.html)!
 <br>
-ZeeZide apps include [Shrugs.app](https://shrugs.app) 🤷‍♀️, a native macOS client for Slack,
+ZeeZide apps include [Shrugs.app](https://shrugs.app) 🤷‍♀️, a native macOS client for Slack (though that is getting a little off),
 [Past for iChat](https://zeezide.de/en/products/past/index.html) to open iChat chatlogs on macOS 11+,
 [SVG Shaper for SwiftUI](https://zeezide.de/en/products/svgshaper/index.html) converts SVGs into SwiftUI Shapes & Views,
 [SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/) as a native app for the Swift package index,
