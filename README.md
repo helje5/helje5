@@ -4,13 +4,13 @@ I know exactly what I want, but I can't have it.
 
 A software developer. Did code on all kinds of platforms in all kinds of languages.
 
-Running my own company called [**ZeeZide**](https://zeezide.de/) for 7+ years now, 
+Running my own company called [**ZeeZide**](https://zeezide.de/) for 8+ years now, 
 been at 
 [Apple](https://support.apple.com/en-us/HT204283), ZideOne, 
 Brainstorm and Skyrix before.
 Got an interesting project that fits my profile? [Drop me a line](https://zeezide.com/contact.html)!
 <br>
-ZeeZide apps include [Shrugs.app](https://shrugs.app) 🤷‍♀️, a native macOS client for Slack (though that is getting a little off),
+ZeeZide apps include [Shrugs.app](https://shrugs.app) 🤷‍♀️, a native macOS client for Slack (though that is not in great shape),
 [Past for iChat](https://zeezide.de/en/products/past/index.html) to open iChat chatlogs on macOS 11+,
 [SVG Shaper for SwiftUI](https://zeezide.de/en/products/svgshaper/index.html) converts SVGs into SwiftUI Shapes & Views,
 [SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/) as a native app for the Swift package index,
@@ -21,7 +21,6 @@ Buy an app:
 [Past for iChat](https://apps.apple.com/us/app/past-for-ichat/id1554897185),
 [Code for SQLite3](https://apps.apple.com/us/app/code-for-sqlite3/id1638111010),
 [SVG Shaper](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414),
-[Shrugs](https://shrugs.app/),
 [HMScriptEditor](https://apps.apple.com/us/app/hmscripteditor/id1483239744).
 You don't have to use it! 😀
 
