@@ -18,7 +18,6 @@ ZeeZide apps include [Shrugs.app](https://shrugs.app) 🤷‍♀️, a native ma
 [5 GUIs](https://zeezide.de/en/products/5guis/index.html).<br>
 **Want to support my work**? 
 Buy an app:
-[Past for iChat](https://apps.apple.com/us/app/past-for-ichat/id1554897185),
 [Code for SQLite3](https://apps.apple.com/us/app/code-for-sqlite3/id1638111010),
 [SVG Shaper](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414),
 [HMScriptEditor](https://apps.apple.com/us/app/hmscripteditor/id1483239744).
@@ -26,7 +25,7 @@ You don't have to use it! 😀
 
 Articles about Swift and other technologies can be found on my
 [homepage](https://www.helgehess.eu/articles.html).
-Tweeting as [@helje5](https://twitter.com/helje5).
+Tooting at [@helge@mastodon.social](https://mastodon.social/@helge).
 
 Making FOSS since like forever.
 Early work I'm responsible for:
