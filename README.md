@@ -66,8 +66,7 @@ and
 [**UXKit**](https://github.com/ZeeZide/UXKit) 
 (UIKit and AppKit apps from a single source).
 
-
-<a href="https://github.com/Lighter-swift"><img width=60 height=60  src="https://camo.githubusercontent.com/62b03fa294eb9a8cf66e3e88a07f0e9e066a0ac73d8b26624c57b85ac63159fb/68747470733a2f2f7a65657a6964652e636f6d2f696d672f6c6967687465722f4c6967687465723235362e706e67" alt="Lighter.swift" /></a>
+<a href="https://github.com/Lighter-swift"><img width=60 height=60  src="https://avatars.githubusercontent.com/u/109075531?s=200&v=4" alt="Lighter.swift" /></a>
 <a href="https://github.com/Data-swift"><img width=60 height=60  src="https://avatars.githubusercontent.com/u/145857583?s=60&v=4" alt="Data.swift" /></a>
 <a href="https://github.com/ZeeZide/ViewController"><img width=60 height=60  src="http://www.alwaysrightinstitute.com/images/vc/ViewControllerIcon256.png" alt="ViewController"     /></a>
 <a href="https://github.com/SwiftBlocksUI"       ><img src="https://avatars0.githubusercontent.com/u/68433678?s=60&v=4" alt="SwiftBlocksUI"     /></a>
@@ -75,7 +74,7 @@ and
 <a href="https://github.com/SwiftWebUI"          ><img src="https://avatars1.githubusercontent.com/u/52378706?s=60&v=4" alt="SwiftWebUI"        /></a>
 <a href="https://github.com/DirectToSwift"       ><img src="https://avatars3.githubusercontent.com/u/55363107?s=60&v=4" alt="Direct2Swift"      /></a>
 <a href="https://github.com/SPMDestinations"     ><img src="https://avatars3.githubusercontent.com/u/69114296?s=60&v=4" alt="SPMDestinations"   /></a>
-<a href="https://github.com/SwiftXcode/swift-lambda"><img src="https://camo.githubusercontent.com/0095dd8a08178d36571f26766b156eb152531d1d/687474703a2f2f7a65657a6964652e636f6d2f696d672f6c616d6264612f73776966742d6c616d6264612d323536783235362e706e67" alt="swift lambda" width="60" height="60" /></a>
+<a href="https://github.com/SwiftXcode/swift-lambda"><img src="https://avatars.githubusercontent.com/u/36967536?s=200&v=4" alt="swift lambda" width="60" height="60" /></a>
 <a href="https://github.com/modswift"            ><img src="https://avatars1.githubusercontent.com/u/26199566?s=60&v=4" alt="mod_swift"         /></a>
 <a href="https://github.com/ZeeQL"               ><img src="https://avatars1.githubusercontent.com/u/26922908?s=60&v=4" alt="ZeeQL"             /></a>
 <a href="https://github.com/PL-Swift"            ><img src="https://avatars0.githubusercontent.com/u/35143538?s=60&v=4" alt="PL/Swift"          /></a>
