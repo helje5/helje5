@@ -2,7 +2,7 @@
 
 I know exactly what I want, but I can't have it.
 
-A software developer. Did/does code on all kinds of platforms in all kinds of languages.
+A software developer. Did code on all kinds of platforms in all kinds of languages. Now mostly working on Apple platforms and Swift, but not exclusively.
 
 Running my own company called [**ZeeZide**](https://zeezide.de/) for 8+ years now, 
 been at 
