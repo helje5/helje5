@@ -4,18 +4,19 @@ I know exactly what I want, but I can't have it.
 
 A software developer. Did code on all kinds of platforms in all kinds of languages. Now mostly working on Apple platforms and Swift, but not exclusively.
 
-Running my own company called [**ZeeZide**](https://zeezide.de/) for 8+ years now, 
+Running my own company called [**ZeeZide**](https://zeezide.de/) for 9+ years now, 
 been at 
 [Apple](https://support.apple.com/en-us/HT204283), ZideOne, 
 Brainstorm and Skyrix before.
 Got an interesting project that fits my profile? [Drop me a line](https://zeezide.com/contact.html)!
 <br>
-ZeeZide apps include [Shrugs.app](https://shrugs.app) 🤷‍♀️, a native macOS client for Slack (though that is not in great shape),
-[Past for iChat](https://zeezide.de/en/products/past/index.html) to open iChat chatlogs on macOS 11+,
-[SVG Shaper for SwiftUI](https://zeezide.de/en/products/svgshaper/index.html) converts SVGs into SwiftUI Shapes & Views,
+ZeeZide apps include [Shrugs.app](https://shrugs.app) 🤷‍♀️, a native macOS client for Slack (though that doesn't currently work anymore),
+[Past for iChat](https://zeezide.de/en/products/past/) to open iChat chatlogs on macOS 11+,
+[SVG Shaper for SwiftUI](https://zeezide.de/en/products/svgshaper/) converts SVGs into SwiftUI Shapes & Views,
+[Code for SQLite](https://zeezide.de/en/products/enlighter/) creates superfast Swift code to access SQLite databases,
 [SwiftPM Catalog](https://zeezide.de/en/products/swiftpmcatalog/) as a native app for the Swift package index,
-[CodeCows](https://zeezide.de/en/products/codecows/index.html) and
-[5 GUIs](https://zeezide.de/en/products/5guis/index.html).<br>
+[CodeCows](https://zeezide.de/en/products/codecows/) and
+[5 GUIs](https://zeezide.de/en/products/5guis/).<br>
 **Want to support my work**? 
 Buy an app:
 [Code for SQLite3](https://apps.apple.com/us/app/code-for-sqlite3/id1638111010),
