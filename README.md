@@ -30,7 +30,7 @@ Tooting at [@helge@mastodon.social](https://mastodon.social/@helge).
 
 Making FOSS since like forever.
 Early work I'm responsible for:
-[ScalableOGo](http://www.scalableogo.org),
+[ScalableOGo](https://sogo.nu),
 [OpenGroupware.org](http://www.opengroupware.org),
 [SOPE](http://sope.opengroupware.org) and
 [GTKKit](http://ftp.gnome.org/pub/gimp/gtk/objc-gtkkit/)
