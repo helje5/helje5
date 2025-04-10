@@ -4,7 +4,7 @@ I know exactly what I want, but I can't have it.
 
 A software developer. Did code on all kinds of platforms in all kinds of languages. Now mostly working on Apple platforms and Swift, but not exclusively.
 
-Running my own company called [**ZeeZide**](https://zeezide.de/) for 9+ years now, 
+Running my own company called [**ZeeZide**](https://zeezide.de/) for 10+ years now, 
 been at 
 [Apple](https://support.apple.com/en-us/HT204283), ZideOne, 
 Brainstorm and Skyrix before.
